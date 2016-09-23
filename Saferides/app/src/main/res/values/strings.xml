@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Saferides</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Saferides">Saferides</string>
+    <string name="login">LOGIN</string>
+    <string name="studentIDHint">Student ID</string>
+    <string name="studentPasswordHint">Password</string>
+    <string name="searchBarHint">Search for an address in our bounds!</string>
+</resources>
